@@ -1,2 +1,6 @@
-pandas latest
-numpy latest
+pandas
+numpy
+sklearn
+matplotlib
+plotly
+scipy

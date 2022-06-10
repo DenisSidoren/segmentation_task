@@ -1,6 +1,12 @@
+
 .idea/
 venv/
 venv/*
 *#
 *~
 *.DS_Store
+*/__pycache__
+
+#dataset
+dataset/images/*
+dataset/masks/*
